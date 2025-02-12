@@ -1,6 +1,11 @@
 #!/bin/bash
 cd ~/Desktop/Python-study
-git pull origin main  # Завантажуємо оновлення
+
+# Відправляємо локальні зміни на GitHub
 git add .
-git commit -m "Автооновлення $(date)"
-git push origin main  # Відправляємо зміни
+git commit -m "Auto-sync $(date)"
+git push origin main
+
+# Завантажуємо оновлення з GitHub
+git pull origin main
+
