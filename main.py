@@ -1,2 +1,2 @@
-my_string = input("enter a number - ")
-print (type(my_string))
+bit_integer = 2**1000
+print (len(str(bit_integer)))
