@@ -1,5 +1,2 @@
-x = 10
-y = 10
-print ( x < y )
-print ( x > y )
-print ( x >= y)
+x = 2
+print ( x < 5 and x > -2 )
