@@ -1,3 +1,5 @@
-is_student = True
-is_graduated = False
-print(is_graduated)
+x = 10
+y = 10
+print ( x < y )
+print ( x > y )
+print ( x >= y)
