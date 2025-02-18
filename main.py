@@ -1,2 +1,6 @@
 x = 2
-print ( x < 5 and x > -2 )
+if x > 0:
+    print ("x is positive")
+elif x < 0:
+    print ("x is negative")
+
