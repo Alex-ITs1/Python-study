@@ -1,3 +1,3 @@
-my_float = 1.6
-my_integer = round(my_float)
-print (my_integer)
+is_student = True
+is_graduated = False
+print(is_graduated)
