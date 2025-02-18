@@ -1,3 +1,3 @@
-name = "Alicess"
-age = 25
-print(f"Hello, my name is {name} and Im {age} years old")
+x = 5
+y = 4
+print(f"Summery is {x + y}, multiplication is {x * y}")
