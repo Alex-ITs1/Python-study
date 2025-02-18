@@ -1,3 +1,3 @@
-x = 5
-y = 2
-print( x%y)
+my_int = 3
+my_float = 2.10
+print (my_float + my_int)
