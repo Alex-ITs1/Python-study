@@ -1,3 +1,3 @@
-my_int = 3
-my_float = 2.10
-print (my_float + my_int)
+my_float = 1.6
+my_integer = round(my_float)
+print (my_integer)
