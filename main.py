@@ -1,2 +1,3 @@
-variable = "hello world"
-print (type(variable))
+x = 5
+y = 2
+print( x%y)
