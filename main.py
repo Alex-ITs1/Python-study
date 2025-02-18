@@ -1,2 +1,3 @@
-bit_integer = 2**1000
-print (len(str(bit_integer)))
+my_string = "       ALIVE     "
+print (len(my_string))
+print(len(my_string.strip()))
