@@ -1,6 +1,1 @@
-print(  vars)
-delattr 
-dict
-callable
-chr
-filter
+print("hello world")
