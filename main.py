@@ -1,3 +1,2 @@
-x = 1
-if  x:
-    print ("x is not zero")
+my_string = input("enter a number - ")
+print (type(my_string))
