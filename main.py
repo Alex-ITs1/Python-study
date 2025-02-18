@@ -1,2 +1,2 @@
-my_string = "hello world"
-print(my_string.count("he"))
+my_string = "10x"
+print(my_string.isdigit())
