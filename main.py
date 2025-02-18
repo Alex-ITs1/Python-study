@@ -1,2 +1,3 @@
-my_string = "10x"
-print(my_string.isdigit())
+name = "Alicess"
+age = 25
+print(f"Hello, my name is {name} and Im {age} years old")
